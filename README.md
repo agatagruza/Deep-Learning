@@ -1,5 +1,7 @@
 # Deep-Learning
-Repo for Deep Learning Nanodegree by AWS and Facebook AI
+Deep Learning is a repo for projects built as a part of [Deep Learning Nanodegree](https://imp.i115008.net/7ZNNr?ref=oscarleo.com) scholarship recipeint that was offered by AWS and Facebook AI. 1st you needed to complete with 6000 students in Secure and Private AI Challenge Scholarship  to get a spot in  "Deep Learning" Nanodegree. Only 300 students were selected for Nanondegree.  
+> Out of six thousand students in the [Secure and Private AI Challenge Scholarship](https://github.com/agatagruza/private-ai), your progress in the course and dedication in the community really stood out. We’ve been impressed and we’re excited for you to continue the journey and grow even stronger as a developer. 
+
 
 ## [PROJECT 1: Predicting Bike-Sharing Patterns](https://github.com/agatagruza/Deep-Learning/tree/master/Predicting%20Bike-Sharing%20Patterns)
 Built and trained neural networks from scratch to predict the number of bikeshare users on a given day.
